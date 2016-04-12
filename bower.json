@@ -1,0 +1,19 @@
+{
+  "name": "react-vs-polymer",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "~0.6.0",
+    "bootstrap-css-only": "~3.3.6"
+  }
+}
