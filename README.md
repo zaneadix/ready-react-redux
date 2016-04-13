@@ -1,1 +1,2 @@
-# learn-react-redux
+
+# ready-react-redux
