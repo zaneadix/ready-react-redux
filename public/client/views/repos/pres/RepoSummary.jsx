@@ -6,8 +6,6 @@ class RepoSummary extends Component {
 
         const { repo } = this.props;
 
-        console.log(repo);
-
         return (
 
             <div className="repo-summary">

@@ -1,3 +1,4 @@
+import { combineReducers } from 'redux';
 import user from './users/reducers';
 import repos from './repos/reducers';
 
@@ -6,4 +7,4 @@ const reducers = {
     repos
 }
 
-export default reducers;
+export default combineReducers(reducers);
